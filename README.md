@@ -1,2 +1,2 @@
 # MiteEngine2
-Mite Is a Tiny Engine~
+MiteEngine2 - SDF Raymarching 3D Rendering Engine with Phase Shift gameplay
