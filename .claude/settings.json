@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(cmake *)",
+      "Bash(make *)",
+      "Bash(ninja *)",
+      "Bash(ctest *)",
+      "Bash(cd *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(rm *)",
+      "Bash(brew install *)",
+      "Bash(pip install *)",
+      "Bash(npm install *)",
+      "Bash(./build/*)",
+      "Bash(python *)",
+      "Bash(clang* *)",
+      "Bash(g++ *)",
+      "Bash(gcc *)"
+    ],
+    "deny": [
+      "Bash(git push *)",
+      "Bash(git push)"
+    ]
+  }
+}

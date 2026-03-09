@@ -8,6 +8,10 @@ build/
 *.a
 *.lib
 
+# Claude Code config (tracked)
+!.claude/
+!.claude/settings.json
+
 # IDE
 .vs/
 .vscode/
